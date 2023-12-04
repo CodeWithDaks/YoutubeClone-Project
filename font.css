@@ -1,0 +1,31 @@
+@font-face {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 400;
+  src: url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-regular.eot);
+  src: local("Nunito Regular"),local("Nunito-Regular"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-regular.eot?#iefix) format("embedded-opentype"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-regular.woff2) format("woff2"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-regular.woff) format("woff"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-regular.ttf) format("truetype"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-regular.svg#Nunito) format("svg")
+}
+
+@font-face {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  src: url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-600.eot);
+  src: local("Nunito SemiBold"),local("Nunito-SemiBold"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-600.eot?#iefix) format("embedded-opentype"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-600.woff2) format("woff2"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-600.woff) format("woff"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-600.ttf) format("truetype"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-600.svg#Nunito) format("svg")
+}
+
+@font-face {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 700;
+  src: url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-700.eot);
+  src: local("Nunito Bold"),local("Nunito-Bold"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-700.eot?#iefix) format("embedded-opentype"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-700.woff2) format("woff2"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-700.woff) format("woff"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-700.ttf) format("truetype"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-700.svg#Nunito) format("svg")
+}
+
+@font-face {
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 800;
+  src: url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-800.eot);
+  src: local("Nunito ExtraBold"),local("Nunito-ExtraBold"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-800.eot?#iefix) format("embedded-opentype"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-800.woff2) format("woff2"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-800.woff) format("woff"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-800.ttf) format("truetype"),url(chrome-extension://bbpokcagpggnekcmamgdieebhpkjmljm/assets/fonts/nunito-v12-latin-800.svg#Nunito) format("svg")
+}
